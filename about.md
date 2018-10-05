@@ -3,13 +3,9 @@ title: About
 layout: page
 ---
 <div class="side-by-side"> 
-    <div class="toright"> <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Profile Image">
-    	<div>
-    		<p> Email: gabrielmaiarocha@gmail.com </p>
-			<p> Phone: +55-85-994305370 </p>
-    	</div>
+    <div class="toleft"> <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Profile Image">
     </div>
-    <div class="toleft">
+    <div class="toright">
         <p>I am a Computer Science student at the <a href="http://www.ufc.br">Federal University of Ceara</a>, in Brazil. I'm currently in my final semester and intending to enter the job market. I'm a versatile programmer who can quickly learn a language or tool, but I tend to focus on back-end development and data science and analysis</p>
         
         <p>I also work at the <a href="http://www.lsbd.ufc.br/">Systems and Databases Laboratory</a> as an intern, where I've published papers in the field of Machine Learning and Natural Language Processing.</p>
