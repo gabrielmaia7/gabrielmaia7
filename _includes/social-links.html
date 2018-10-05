@@ -89,6 +89,12 @@
         </a>
     {% endif %}
 
+    {% if site.kaggle %}
+        <a class="link" data-title="http://kaggle.com/{{ site.kaggle }}" href="http://kaggle.com/{{ site.kaggle }}" target="_blank">
+            <svg class="icon icon-kaggle"><use xlink:href="#icon-kaggle"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
