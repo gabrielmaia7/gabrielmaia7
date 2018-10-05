@@ -35,6 +35,12 @@
         </a>
     {% endif %}
 
+    {% if site.kaggle %}
+        <a class="link" data-title="http://kaggle.com/{{ site.kaggle }}" href="http://kaggle.com/{{ site.kaggle }}" target="_blank">
+            <svg class="icon icon-kaggle"><use xlink:href="#icon-kaggle"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.youtube %}
         <a class="link" data-title="youtube.com/{{ site.youtube }}" href="http://youtube.com/{{ site.youtube }}" target="_blank">
             <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
@@ -86,12 +92,6 @@
     {% if site.lattes %}
         <a class="link" data-title="http://lattes.cnpq.br/{{ site.lattes }}" href="http://lattes.cnpq.br/{{ site.lattes }}" target="_blank">
             <svg class="icon icon-eye"><use xlink:href="#icon-eye"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.kaggle %}
-        <a class="link" data-title="http://kaggle.com/{{ site.kaggle }}" href="http://kaggle.com/{{ site.kaggle }}" target="_blank">
-            <svg class="icon icon-kaggle"><use xlink:href="#icon-kaggle"></use></svg>
         </a>
     {% endif %}
 
