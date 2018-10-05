@@ -17,7 +17,7 @@ bibtex:  /assets/citations/bracis2016.bib
 
 # Reasoning about Trust and Belief in PASP
 
-*G. Maia and J. Alcantara, "Reasoning about Trust and Belief in Possibilistic Answer Set Programming," 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), Recife, Brazil, 2017, pp. 217-222.*
+*G. Maia and J. Alcantara, "Reasoning about Trust and Belief in Possibilistic Answer Set Programming", 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), Recife, Brazil, 2017, pp. 217-222.*
 
 <center><img src="/assets/images/thumbs/bracis2016.png" style="width: 90%;" /></center>
 

@@ -9,7 +9,7 @@ tags: []
 pub: true
 headerImage: true
 authors: F. D. Lima and G. M. Amaral and L. G. Leite and J. P. Gomes and J. d. Machado
-in: "I2017 Brazilian Conference on Intelligent Systems (BRACIS) (2017) Uberlândia, MG, Brazil, 2017, pp. 222-227"
+in: "In: 2017 Brazilian Conference on Intelligent Systems (BRACIS) (2017) Uberlândia, MG, Brazil, 2017, pp. 222-227"
 file: /assets/papers/bracis2017.pdf
 image: /assets/images/thumbs/bracis2017.png
 bibtex:  /assets/citations/bracis2017.bib
@@ -17,7 +17,7 @@ bibtex:  /assets/citations/bracis2017.bib
 
 # Predicting Failures in Hard Drives with LSTM Networks
 
-*F. D. Lima, G. M. Amaral, L. G. Leite, J. P. Gomes and J. d. Machado, "Predicting Failures in Hard Drives with LSTM Networks," 2017 Brazilian Conference on Intelligent Systems (BRACIS), Uberlândia, MG, Brazil, 2017, pp. 222-227.*
+*F. D. Lima, G. M. Amaral, L. G. Leite, J. P. Gomes and J. d. Machado, "Predicting Failures in Hard Drives with LSTM Networks", 2017 Brazilian Conference on Intelligent Systems (BRACIS), Uberlândia, MG, Brazil, 2017, pp. 222-227.*
 
 <center><img src="/assets/images/thumbs/bracis2017.png" style="width: 90%;" /></center>
 
