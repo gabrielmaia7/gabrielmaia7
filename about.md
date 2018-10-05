@@ -4,7 +4,7 @@ layout: page
 ---
 <div class="side-by-side"> 
     <div class="toright"> <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Profile Image">
-    	<p>Email: gabrielmaiarocha@gmail.com<\p>
+    	<p>Email: gabrielmaiarocha@gmail.com</p>
     	<p>Phone: +55-85-994305370</p>
     </div>
     <div class="toleft">
