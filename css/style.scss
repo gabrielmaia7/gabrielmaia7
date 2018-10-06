@@ -2,7 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$background : "{{ site.background }}""
+$background : "{{ site.background }}"
 
 @import "base/variables";
 @import "base/normalize";
