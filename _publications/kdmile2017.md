@@ -1,7 +1,7 @@
 ---
 title: "A Deep Learning Approach to Prioritize Customer Service Using Social Networks"
 layout: page
-date: 2017-11-22
+date: 2017-10-02
 year: 2017
 month: 10
 description:
@@ -9,7 +9,7 @@ tags: []
 pub: true
 headerImage: true
 authors: P. R. P. Amora , E. M. Teixeira , M. I. V. Lima , G. M. Amaral , J. R. A. Cardozo , J. C. Machado
-in: "In: 2017 Brazilian Conference on Intelligent Systems (BRACIS) (2017) Uberlândia, MG, Brazil, 2017, pp. 222-227"
+in: "In: 2017 5th Symposium on Knowledge Discovery, Mining and Learning"
 file: /assets/papers/kdmile2017.pdf
 image: /assets/images/thumbs/kdmile2017.png
 bibtex:  /assets/citations/kdmile2017.bib
@@ -17,7 +17,7 @@ bibtex:  /assets/citations/kdmile2017.bib
 
 # Predicting Failures in Hard Drives with LSTM Networks
 
-*P. R. P. Amora , E. M. Teixeira , M. I. V. Lima , G. M. Amaral , J. R. A. Cardozo , J. C., "A Deep Learning Approach to Prioritize Customer Service Using Social Networks",  ymposium on Knowledge Discovery, Mining and Learning, KDMILE 2017.*
+*P. R. P. Amora , E. M. Teixeira , M. I. V. Lima , G. M. Amaral , J. R. A. Cardozo , J. C., "A Deep Learning Approach to Prioritize Customer Service Using Social Networks",  Symposium on Knowledge Discovery, Mining and Learning, KDMILE 2017.*
 
 <center><img src="/assets/images/thumbs/kdmile2017.png" style="width: 90%;" /></center>
 
