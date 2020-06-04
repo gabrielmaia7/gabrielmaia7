@@ -1,0 +1,13 @@
+I"C<h1 id="reasoning-about-trust-and-belief-in-pasp">Reasoning about Trust and Belief in PASP</h1>
+
+<p><em>G. Maia and J. Alcantara, “Reasoning about Trust and Belief in Possibilistic Answer Set Programming”, 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), Recife, Brazil, 2017, pp. 217-222.</em></p>
+
+<center><img src="/assets/images/thumbs/bracis2016.png" style="width: 90%;" /></center>
+
+<h2 id="abstract">Abstract</h2>
+<p>The Possibilistic Answer Set Framework was conceived to deal with not only non monotonic reasoning, but also with uncertainty by associating a certainty level to each piece of knowledge. Here we extend this formalism to a multiagent approach robust enough to manage both the uncertainty about autonomous agents expressed in terms of degrees of trust and the possibilistic uncertainty about their knowledge bases expressed as possibilistic answer set programs. As result, we have a decentralized system able to reason about trust and beliefs in an integrated way. Then we motivate its behavior on an example and highlight how our proposal can be employed to make decisions when the information is distributed, uncertain, potentially contradictory and not necessarily reliable.</p>
+
+<p><a href="/assets/papers/bracis2016.pdf">Full paper</a></p>
+
+<p><a href="/assets/citations/bracis2016.bib">BibTex</a></p>
+:ET

@@ -1,0 +1,8 @@
+I"¹<div class="side-by-side"> 
+    <div class="toleft"> <img class="image" src="http://localhost:4000/assets/images/profile.jpg" alt="Profile Image" />
+    </div>
+    <div class="toright">
+        <p>I am a Computer Science student at <a href="https://www.kcl.ac.uk/">King's College London</a>, currently undertaking a 3-year Ph.D. program. Before this, I graduated Summa Cum Laude at the <a href="http://www.ufc.br">Federal University of Ceara</a>, in Brazil. I'm a data scientist and analyst who loves to extract insightful information from data.</p>        
+        <p>I also work at the <a href="http://cleopatra-project.eu/">Cleopatra project</a> as an Early Stage Researcher. </p>
+</div></div>
+:ET
